@@ -1,0 +1,28 @@
+{
+  "name": "warungmjs-backend",
+  "version": "1.0.0",
+  "description": "A simple and scalable Node.js backend for managing food ingredient costs and sales, built with Fastify. Designed with a clean architecture to support microservices and separate frontend/backend deployment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iqbalrahman-dev/warungmjs-backend.git"
+  },
+  "keywords": [
+    "fastify",
+    "vercel",
+    "node.js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iqbalrahman-dev/warungmjs-backend/issues"
+  },
+  "homepage": "https://github.com/iqbalrahman-dev/warungmjs-backend#readme",
+  "dependencies": {
+    "fastify": "^5.3.2"
+  }
+}
